@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     background-color: blanchedalmond;
-    background-image: url(/img/zwembadachtergond.png);
+    background-image: url(img/zwembadachtergond.png);
     background-size: 1700px;
 }
 
@@ -40,7 +40,7 @@ p {
     position: relative;
     max-width: 1030px;
     height: 350px;
-    background: url(/img/zwembad.png);
+    background: url(img/zwembad.png);
     border-width: 1em;
     border-style: solid;
     border-color: whitesmoke;
